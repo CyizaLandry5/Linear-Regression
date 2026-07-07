@@ -27,3 +27,8 @@ In this practice Assignment, I implemented linear regression with one variable t
 - Learned how to evaluate model performance
 - Understood the formula: `J(w,b) = (1/2m) * Σ(f_w,b(x) - y)²`
 
+### 3. **Gradient Descent**
+- Implemented batch gradient descent for parameter optimization
+- Learned the update rules for w and b
+- Understood the role of learning rate (alpha)
+
