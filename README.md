@@ -53,3 +53,8 @@ In this practice Assignment, I implemented linear regression with one variable t
    - Iterated over training examples
    - Calculated mean squared error
 
+2. **`compute_gradient(x, y, w, b)`**
+   - Computed gradients for gradient descent
+   - Calculated partial derivatives for w and b
+   - Returned both gradients for simultaneous update
+
