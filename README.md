@@ -32,3 +32,7 @@ In this practice Assignment, I implemented linear regression with one variable t
 - Learned the update rules for w and b
 - Understood the role of learning rate (alpha)
 
+### 4. **Model Training**
+- Trained a linear regression model on real data
+- Visualized the learning process
+- Made predictions on new data
