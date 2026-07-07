@@ -36,3 +36,11 @@ In this practice Assignment, I implemented linear regression with one variable t
 - Trained a linear regression model on real data
 - Visualized the learning process
 - Made predictions on new data
+
+### 5. **Data Visualization**
+- Created scatter plots to understand data patterns
+- Visualized the fitted linear model
+- Interpreted results and made business decisions
+
+---
+
