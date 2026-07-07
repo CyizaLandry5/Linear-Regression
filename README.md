@@ -44,3 +44,12 @@ In this practice Assignment, I implemented linear regression with one variable t
 
 ---
 
+## What I Accomplished
+
+### ✅ Implemented Core Functions
+
+1. **`compute_cost(x, y, w, b)`**
+   - Computed the cost function for linear regression
+   - Iterated over training examples
+   - Calculated mean squared error
+
