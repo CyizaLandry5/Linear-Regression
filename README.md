@@ -58,3 +58,11 @@ In this practice Assignment, I implemented linear regression with one variable t
    - Calculated partial derivatives for w and b
    - Returned both gradients for simultaneous update
 
+### ✅ Built Complete Model
+
+- **Dataset**: 97 training examples
+- **Features**: 1 (city population)
+- **Target**: Profit (in $10,000)
+- **Training**: 1500 iterations
+- **Learning Rate**: 0.01
+
