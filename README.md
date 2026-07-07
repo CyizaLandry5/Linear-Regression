@@ -21,3 +21,9 @@ In this practice Assignment, I implemented linear regression with one variable t
 - Understood the problem of predicting continuous values (profits)
 - Learned the linear regression model: `f_w,b(x) = wx + b`
 - Understood the relationship between features (population) and target (profit)
+
+### 2. **Cost Function**
+- Implemented the mean squared error cost function
+- Learned how to evaluate model performance
+- Understood the formula: `J(w,b) = (1/2m) * Σ(f_w,b(x) - y)²`
+
