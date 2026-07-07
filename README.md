@@ -66,3 +66,11 @@ In this practice Assignment, I implemented linear regression with one variable t
 - **Training**: 1500 iterations
 - **Learning Rate**: 0.01
 
+### ✅ Achieved Understanding
+
+- Discovered the relationship between population and profit
+- Learned to optimize parameters using gradient descent
+- Visualized the linear fit and made predictions
+- Understood the business application of linear regression
+
+---
